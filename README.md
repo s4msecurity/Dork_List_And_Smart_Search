@@ -4,4 +4,4 @@ The Hacking with Google Dork
 Web site info get it with Google.<br>
 For smart Google search: "Smart Search Etc.PDF"<br>
 For Google dork list: "dork_list.txt"<br>
-For smart DuckDuckGo.com search link (Info: This article language Turkish): https://www.s4msecurity.com/2021/06/arama-motorlar-ve-farklar-duckduckgo.html
+For smart DuckDuckGo.com search link (Info: This article language is Turkish): https://www.s4msecurity.com/2021/06/arama-motorlar-ve-farklar-duckduckgo.html
