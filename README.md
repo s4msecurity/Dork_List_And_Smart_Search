@@ -1,4 +1,4 @@
-# Google_Dork_List
+# Using the Search Engine to Get Information
 The Hacking with Google Dork
 <br>
 Web site info get it with Google.<br>
