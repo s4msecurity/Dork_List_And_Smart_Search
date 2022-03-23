@@ -1,5 +1,5 @@
 # Using the Search Engine to Get Information
-The Hacking with Google Dork
+The Hacking with Google Dork.
 <br>
 Web site info get it with Google.<br>
 Smart search on Search Engine (DuckDuckGo)
