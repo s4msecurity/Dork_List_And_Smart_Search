@@ -9,6 +9,6 @@ Smart search on Search Engine (DuckDuckGo)
 <hr>
 For smart Google search: "Smart Search Etc.PDF"<br>
 For Google dork list: "dork_list.txt"<br>
-For smart DuckDuckGo.com search link (Info: This article language is Turkish): https://www.s4msecurity.com/2021/06/arama-motorlar-ve-farklar-duckduckgo.html
+For smart DuckDuckGo.com search link (Info: This article language is Turkish): https://www.s4msecurity.com/2021/06/22/arama-motorlari-ve-farklari-duckduckgo-sansli-ordegim/
 <hr>
 All information is taken from other sources and summary.
